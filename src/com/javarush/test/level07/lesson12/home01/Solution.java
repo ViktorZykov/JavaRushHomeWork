@@ -21,7 +21,7 @@ public class Solution
         for (int i = 0; i < 10; i++)
             list.add(Integer.parseInt(reader.readLine()));//напишите тут ваш код
 
-        for (int i = 0; i < list.size(); i++)
+        for (int i = 0; i < list.size(); i++)//вывод на экран в обратном порядке
         {
             int j = list.size() - i - 1;
             System.out.println(list.get(j));
