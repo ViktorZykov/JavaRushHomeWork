@@ -39,7 +39,7 @@ public class Solution
         for (int i = 0; i < list.size(); i++)
         {
             String s = list.get(i);
-            listUpperCase.add(s.toUpperCase());//
+            listUpperCase.add(s.toUpperCase());///
         }
 
         for (int i = 0; i < listUpperCase.size(); i++)
