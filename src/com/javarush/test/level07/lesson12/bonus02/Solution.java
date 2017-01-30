@@ -52,4 +52,22 @@ public class Solution
             System.out.println(listUpperCase.get(i));
         }
     }
+                                                                //  ArrayList<String> list = new ArrayList<String>();
+                                                                 //     while (true) {
+                                                                  //  String s = reader.readLine();
+                                                                    // if (s.isEmpty()) break;
+
+                                                                    // if (s.length() % 2 == 0) {
+                                                                     // s = s + " " + s;
+                                                                            //                           }
+                                                                        // else {
+                                                                         // s = s + " " + s + " " + s;
+                                                                           //  }
+                                                                             //list.add(s);
+                                                                               //         }
+
+                                                                                //for (String s : list) {
+                                                                                 //System.out.println(s);
+                                                                                   //    }
+
 }
