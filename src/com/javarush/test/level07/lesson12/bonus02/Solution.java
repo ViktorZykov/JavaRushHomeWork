@@ -44,7 +44,7 @@ public class Solution
 
         for (int i = 0; i < listUpperCase.size(); i++)
         {
-            System.out.println(listUpperCase.get(i));
+            System.out.println(listUpperCase.get(i));//
         }
     }
 }
